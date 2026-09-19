@@ -135,7 +135,7 @@ main {
 }
 
 /* Container for content */
-.masonry-gallery, .services-grid, .process-section, .cta-section, main > p, main > h2, main > h3, main > details {
+.masonry-gallery, .services-section, .process-section, .cta-section, .about-section, main > p, main > h2, main > h3, main > details {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
@@ -177,46 +177,50 @@ main {
   }
 }
 
-/* Services Grid */
-.services-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
+/* Services Stack (Alternating Layout) */
+.services-section {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
   margin-top: 2rem;
   margin-bottom: 4rem;
 }
 
-.service-item {
-  background: var(--secondary-color);
-  padding: 2rem;
-  border-radius: 12px;
-}
-
-.service-item h3 {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-}
-
-.split-layout {
-  grid-column: 1 / -1;
+.service-row {
   display: flex;
-  gap: 2rem;
+  gap: 3rem;
   align-items: center;
 }
 
-.service-text, .service-video {
+.service-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.service-media, .service-text {
   flex: 1;
 }
 
-.service-video video {
+.service-media img, .service-media video {
   width: 100%;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  display: block;
+}
+
+.service-text h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
 }
 
 @media (max-width: 768px) {
-  .split-layout {
+  .service-row, .service-row.reverse {
     flex-direction: column;
+  }
+  .service-text {
+    order: 2;
+  }
+  .service-media {
+    order: 1;
   }
 }
 
@@ -232,14 +236,27 @@ main {
 
 .process-videos {
   display: flex;
-  flex-direction: column;
   gap: 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  padding-bottom: 1rem;
+}
+
+.process-videos::-webkit-scrollbar {
+  display: none;
 }
 
 .process-card {
-  width: 100%;
+  height: 500px;
+  width: auto;
+  aspect-ratio: 9 / 16;
+  object-fit: cover;
+  flex-shrink: 0;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  scroll-snap-align: start;
 }
 
 .process-steps ul {
@@ -360,5 +377,20 @@ details p {
 }
 .footer-contacts a:hover {
   color: var(--accent-color);
+}
+
+
+/* About Section */
+.about-section {
+  max-width: 1200px;
+  margin: 0 auto 4rem auto;
+  padding: 0 2rem;
+}
+.about-section ul {
+  padding-left: 2rem;
+  margin-bottom: 1.5rem;
+}
+.about-section li {
+  margin-bottom: 0.5rem;
 }
 

@@ -37,26 +37,34 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
 
 ## Unique Solutions for Your Space
 
-<div class="services-grid">
-  <div class="service-item">
-    <h3>1. Monumental Murals & Facades</h3>
-    <p>I turn a boring exterior wall or facade of a multi-story building into a main magnet for attention. I know how to make you noticed from the street and make people want to come in. I work with any scale.</p>
+<div class="services-section">
+  <div class="service-row">
+    <div class="service-media">
+      <img src="{{ '/assets/images/portfolio-mural.jpg' | relative_url }}" alt="Monumental Murals and Facades">
+    </div>
+    <div class="service-text">
+      <h3>1. Monumental Murals & Facades</h3>
+      <p>I turn a boring exterior wall or facade of a multi-story building into a main magnet for attention. I know how to make you noticed from the street and make people want to come in. I work with any scale.</p>
+    </div>
   </div>
   
-  <div class="service-item">
-    <h3>2. Interior Solutions & Image</h3>
-    <p>Stylish, expressive, and detailed painting for coffee shops, restaurants, hostels, and business complexes. I create a mood in which people want to stay longer.</p>
+  <div class="service-row reverse">
+    <div class="service-media">
+      <img src="{{ '/assets/images/portfolio-interior-koi-fish.jpg' | relative_url }}" alt="Interior Solutions and Image">
+    </div>
+    <div class="service-text">
+      <h3>2. Interior Solutions & Image</h3>
+      <p>Stylish, expressive, and detailed painting for coffee shops, restaurants, hostels, and business complexes. I create a mood in which people want to stay longer.</p>
+    </div>
   </div>
   
-  <div class="service-item split-layout">
+  <div class="service-row">
+    <div class="service-media">
+      <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" alt="Unique Custom Panels">
+    </div>
     <div class="service-text">
       <h3>3. Unique Custom Panels</h3>
       <p>My exclusive offer: 3D carved panels and paintings. A great way to quickly update your interior, add character and premium feel without renovation and wall painting.</p>
-    </div>
-    <div class="service-video">
-      <video autoplay loop muted playsinline>
-        <source src="{{ '/assets/videos/process-panno-wood-old-man.mp4' | relative_url }}" type="video/mp4">
-      </video>
     </div>
   </div>
 </div>
@@ -86,14 +94,20 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
 
 ## Global Experience. Premium Quality
 
+<div class="about-section">
+
 I have been doing fine arts since the age of 20, my first personal exhibition took place back in 2005. My career includes international art residencies and projects in China, South Korea, Mongolia, and Europe.
 
 Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.
 
 **Your reliable partner in the world of creativity:**
-* **Exclusively Original Art.** I don't copy Pinterest. Each piece is born from the atmosphere of your place, your goals, and my artistic vision.
-* **Professional Approach.** No mess, complications, or surprises. I work carefully and meet deadlines.
-* **I Understand Business.** I create beauty that attracts attention and increases the value of your venue.
+<ul>
+<li><strong>Exclusively Original Art.</strong> I don't copy Pinterest. Each piece is born from the atmosphere of your place, your goals, and my artistic vision.</li>
+<li><strong>Professional Approach.</strong> No mess, complications, or surprises. I work carefully and meet deadlines.</li>
+<li><strong>I Understand Business.</strong> I create beauty that attracts attention and increases the value of your venue.</li>
+</ul>
+
+</div>
 
 ## Frequently Asked Questions
 

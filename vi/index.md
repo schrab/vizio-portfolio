@@ -37,26 +37,34 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
 
 ## Giải pháp độc đáo cho không gian của bạn
 
-<div class="services-grid">
-  <div class="service-item">
-    <h3>1. Tranh tường & Mặt tiền quy mô lớn</h3>
-    <p>Tôi biến một bức tường bên ngoài hoặc mặt tiền nhàm chán của một tòa nhà nhiều tầng thành nam châm chính thu hút sự chú ý. Tôi biết cách làm thế nào để bạn được chú ý từ ngoài đường và khiến mọi người muốn bước vào. Tôi làm việc với mọi quy mô.</p>
+<div class="services-section">
+  <div class="service-row">
+    <div class="service-media">
+      <img src="{{ '/assets/images/portfolio-mural.jpg' | relative_url }}" alt="Tranh tường và Mặt tiền quy mô lớn">
+    </div>
+    <div class="service-text">
+      <h3>1. Tranh tường & Mặt tiền quy mô lớn</h3>
+      <p>Tôi biến một bức tường bên ngoài hoặc mặt tiền nhàm chán của một tòa nhà nhiều tầng thành nam châm chính thu hút sự chú ý. Tôi biết cách làm thế nào để bạn được chú ý từ ngoài đường và khiến mọi người muốn bước vào. Tôi làm việc với mọi quy mô.</p>
+    </div>
   </div>
   
-  <div class="service-item">
-    <h3>2. Giải pháp nội thất & Hình ảnh</h3>
-    <p>Bức tranh phong cách, biểu cảm và chi tiết cho các quán cà phê, nhà hàng, ký túc xá và khu phức hợp kinh doanh. Tôi tạo ra một tâm trạng mà mọi người muốn ở lại lâu hơn.</p>
+  <div class="service-row reverse">
+    <div class="service-media">
+      <img src="{{ '/assets/images/portfolio-interior-koi-fish.jpg' | relative_url }}" alt="Giải pháp nội thất và Hình ảnh">
+    </div>
+    <div class="service-text">
+      <h3>2. Giải pháp nội thất & Hình ảnh</h3>
+      <p>Bức tranh phong cách, biểu cảm và chi tiết cho các quán cà phê, nhà hàng, ký túc xá và khu phức hợp kinh doanh. Tôi tạo ra một tâm trạng mà mọi người muốn ở lại lâu hơn.</p>
+    </div>
   </div>
   
-  <div class="service-item split-layout">
+  <div class="service-row">
+    <div class="service-media">
+      <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" alt="Bức bình phong điêu khắc độc đáo">
+    </div>
     <div class="service-text">
       <h3>3. Bức bình phong điêu khắc độc đáo</h3>
       <p>Ưu đãi độc quyền của tôi: Bức bình phong và tranh chạm khắc 3D. Một cách tuyệt vời để nhanh chóng làm mới nội thất, thêm nét đặc trưng và cảm giác cao cấp mà không cần cải tạo và sơn tường.</p>
-    </div>
-    <div class="service-video">
-      <video autoplay loop muted playsinline>
-        <source src="{{ '/assets/videos/process-panno-wood-old-man.mp4' | relative_url }}" type="video/mp4">
-      </video>
     </div>
   </div>
 </div>
@@ -86,14 +94,20 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
 
 ## Kinh nghiệm toàn cầu. Chất lượng cao cấp
 
+<div class="about-section">
+
 Tôi theo đuổi mỹ thuật từ năm 20 tuổi, triển lãm cá nhân đầu tiên của tôi diễn ra vào năm 2005. Sự nghiệp của tôi bao gồm các chương trình lưu trú nghệ thuật quốc tế và các dự án tại Trung Quốc, Hàn Quốc, Mông Cổ và Châu Âu.
 
 Đằng sau tôi là kinh nghiệm thực hiện các dự án hoành tráng với diện tích hơn 100 m2 và vẽ mặt tiền nhiều tầng. Kinh nghiệm hình ảnh, sự chú ý đến chi tiết và sự hiểu biết về các xu hướng hiện đại cho phép tôi tạo ra những dự án đáng nhớ.
 
 **Đối tác đáng tin cậy của bạn trong thế giới sáng tạo:**
-* **Hoàn toàn là Nghệ thuật Nguyên bản.** Tôi không sao chép Pinterest. Mỗi tác phẩm được sinh ra từ bầu không khí của địa điểm, mục tiêu của bạn và tầm nhìn nghệ thuật của tôi.
-* **Cách tiếp cận chuyên nghiệp.** Không bừa bộn, không rắc rối hay bất ngờ. Tôi làm việc cẩn thận và đúng thời hạn.
-* **Tôi Hiểu Kinh doanh.** Tôi tạo ra vẻ đẹp thu hút sự chú ý và tăng giá trị cho địa điểm của bạn.
+<ul>
+<li><strong>Hoàn toàn là Nghệ thuật Nguyên bản.</strong> Tôi không sao chép Pinterest. Mỗi tác phẩm được sinh ra từ bầu không khí của địa điểm, mục tiêu của bạn và tầm nhìn nghệ thuật của tôi.</li>
+<li><strong>Cách tiếp cận chuyên nghiệp.</strong> Không bừa bộn, không rắc rối hay bất ngờ. Tôi làm việc cẩn thận và đúng thời hạn.</li>
+<li><strong>Tôi Hiểu Kinh doanh.</strong> Tôi tạo ra vẻ đẹp thu hút sự chú ý và tăng giá trị cho địa điểm của bạn.</li>
+</ul>
+
+</div>
 
 ## Các câu hỏi thường gặp
 
