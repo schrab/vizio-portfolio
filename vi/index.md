@@ -80,9 +80,6 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
 <div class="process-section">
   <div class="process-videos">
     <video autoplay loop muted playsinline class="process-card">
-      <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
-    </video>
-    <video autoplay loop muted playsinline class="process-card">
       <source src="{{ '/assets/videos/process-panno-shaman-vr.mp4' | relative_url }}" type="video/mp4">
     </video>
     <video autoplay loop muted playsinline class="process-card">

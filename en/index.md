@@ -80,9 +80,6 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
 <div class="process-section">
   <div class="process-videos">
     <video autoplay loop muted playsinline class="process-card">
-      <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
-    </video>
-    <video autoplay loop muted playsinline class="process-card">
       <source src="{{ '/assets/videos/process-panno-shaman-vr.mp4' | relative_url }}" type="video/mp4">
     </video>
     <video autoplay loop muted playsinline class="process-card">
