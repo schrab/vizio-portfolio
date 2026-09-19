@@ -115,7 +115,10 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
       <li><strong>I Understand Business.</strong> I create beauty that attracts attention and increases the value of your venue.</li>
     </ul>
   </div>
-  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Stepan Shobolov">
+  <div class="auto-slider">
+    <img src="{{ '/assets/images/korea.jpg' | relative_url }}" class="slide active" alt="Project in Korea">
+    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="City project">
+  </div>
 </div>
 
 ## Frequently Asked Questions

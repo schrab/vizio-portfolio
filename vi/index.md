@@ -115,7 +115,10 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
       <li><strong>Tôi Hiểu Kinh doanh.</strong> Tôi tạo ra vẻ đẹp thu hút sự chú ý và tăng giá trị cho địa điểm của bạn.</li>
     </ul>
   </div>
-  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Stepan Shobolov">
+  <div class="auto-slider">
+    <img src="{{ '/assets/images/korea.jpg' | relative_url }}" class="slide active" alt="Dự án tại Hàn Quốc">
+    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Dự án thành phố">
+  </div>
 </div>
 
 ## Các câu hỏi thường gặp

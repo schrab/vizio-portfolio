@@ -112,7 +112,10 @@ permalink: /
       <li><strong>Понимаю Бизнес.</strong> Я создаю красоту, которая привлекает внимание и повышает ценность вашего заведения.</li>
     </ul>
   </div>
-  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Степан Шоболов">
+  <div class="auto-slider">
+    <img src="{{ '/assets/images/korea.jpg' | relative_url }}" class="slide active" alt="Проект в Корее">
+    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Городской проект">
+  </div>
 </div>
 
 ## Ответы на частые вопросы
