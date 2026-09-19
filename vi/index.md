@@ -114,7 +114,10 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   </div>
   <div class="auto-slider">
     <img src="{{ '/assets/images/korea.jpg' | relative_url }}" class="slide active" alt="Dự án tại Hàn Quốc">
-    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Dự án thành phố">
+    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Gorod - i">
+    <img src="{{ '/assets/images/gorod-i-2.jpg' | relative_url }}" class="slide" alt="Gorod - i 2">
+    <img src="{{ '/assets/images/outdoor-painting.jpg' | relative_url }}" class="slide" alt="Vẽ tranh ngoài trời">
+    <img src="{{ '/assets/images/lectory-paik.jpg' | relative_url }}" class="slide" alt="Phòng hội thảo Paik">
   </div>
 </div>
 

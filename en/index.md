@@ -114,7 +114,10 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
   <div class="auto-slider">
     <img src="{{ '/assets/images/korea.jpg' | relative_url }}" class="slide active" alt="Project in Korea">
-    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="City project">
+    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Gorod - i">
+    <img src="{{ '/assets/images/gorod-i-2.jpg' | relative_url }}" class="slide" alt="Gorod - i 2">
+    <img src="{{ '/assets/images/outdoor-painting.jpg' | relative_url }}" class="slide" alt="Outdoor painting">
+    <img src="{{ '/assets/images/lectory-paik.jpg' | relative_url }}" class="slide" alt="Lectory Paik">
   </div>
 </div>
 

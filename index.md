@@ -114,7 +114,10 @@ permalink: /
   </div>
   <div class="auto-slider">
     <img src="{{ '/assets/images/korea.jpg' | relative_url }}" class="slide active" alt="Проект в Корее">
-    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Городской проект">
+    <img src="{{ '/assets/images/gorod-i.jpg' | relative_url }}" class="slide" alt="Город - i">
+    <img src="{{ '/assets/images/gorod-i-2.jpg' | relative_url }}" class="slide" alt="Город - i 2">
+    <img src="{{ '/assets/images/outdoor-painting.jpg' | relative_url }}" class="slide" alt="Роспись на открытом воздухе">
+    <img src="{{ '/assets/images/lectory-paik.jpg' | relative_url }}" class="slide" alt="Лекторий Paik">
   </div>
 </div>
 
