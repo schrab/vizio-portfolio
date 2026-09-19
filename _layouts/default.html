@@ -60,14 +60,14 @@
 
         // Auto Slider logic
         document.querySelectorAll('.auto-slider').forEach(slider => {
-            const images = slider.querySelectorAll('img');
-            if (images.length <= 1) return;
+            const slides = slider.querySelectorAll('.slide');
+            if (slides.length <= 1) return;
             
             let currentIndex = 0;
             setInterval(() => {
-                images[currentIndex].classList.remove('active');
-                currentIndex = (currentIndex + 1) % images.length;
-                images[currentIndex].classList.add('active');
+                slides[currentIndex].classList.remove('active');
+                currentIndex = (currentIndex + 1) % slides.length;
+                slides[currentIndex].classList.add('active');
             }, 4000);
         });
     </script>

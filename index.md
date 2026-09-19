@@ -51,9 +51,9 @@ permalink: /
   
   <div class="service-row reverse">
     <div class="auto-slider">
-      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="active" alt="Роспись с лисой">
-      <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Роспись суши">
-      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" alt="Роспись нерпа">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="slide active" alt="Роспись с лисой">
+      <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" class="slide" alt="Роспись суши">
+      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" class="slide" alt="Роспись нерпа">
     </div>
     <div class="service-text">
       <h3>2. Интерьерные Решения & Имидж</h3>
@@ -62,8 +62,9 @@ permalink: /
   </div>
   
   <div class="service-row">
-    <div class="service-media-complex">
-      <video autoplay loop muted playsinline>
+    <div class="auto-slider">
+      <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" class="slide active" alt="Авторское панно">
+      <video class="slide" autoplay loop muted playsinline>
         <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
       </video>
     </div>

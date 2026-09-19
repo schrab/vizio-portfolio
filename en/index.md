@@ -51,9 +51,9 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   
   <div class="service-row reverse">
     <div class="auto-slider">
-      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="active" alt="Fox painting">
-      <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Sushi painting">
-      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" alt="Nerpa painting">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="slide active" alt="Fox painting">
+      <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" class="slide" alt="Sushi painting">
+      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" class="slide" alt="Nerpa painting">
     </div>
     <div class="service-text">
       <h3>2. Interior Solutions & Image</h3>
@@ -62,8 +62,9 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
   
   <div class="service-row">
-    <div class="service-media-complex">
-      <video autoplay loop muted playsinline>
+    <div class="auto-slider">
+      <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" class="slide active" alt="Custom panel">
+      <video class="slide" autoplay loop muted playsinline>
         <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
       </video>
     </div>
