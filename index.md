@@ -50,7 +50,7 @@ permalink: /
   
   <div class="service-row reverse">
     <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-interior-koi-fish.jpg' | relative_url }}" alt="Интерьерные Решения и Имидж">
+      <img src="{{ '/assets/images/portfolio-interior-teahouse.jpg' | relative_url }}" alt="Интерьерные Решения и Имидж">
     </div>
     <div class="service-text">
       <h3>2. Интерьерные Решения & Имидж</h3>

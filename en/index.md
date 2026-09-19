@@ -50,7 +50,7 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   
   <div class="service-row reverse">
     <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-interior-koi-fish.jpg' | relative_url }}" alt="Interior Solutions and Image">
+      <img src="{{ '/assets/images/portfolio-interior-teahouse.jpg' | relative_url }}" alt="Interior Solutions and Image">
     </div>
     <div class="service-text">
       <h3>2. Interior Solutions & Image</h3>

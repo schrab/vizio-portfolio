@@ -50,7 +50,7 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   
   <div class="service-row reverse">
     <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-interior-koi-fish.jpg' | relative_url }}" alt="Giải pháp nội thất và Hình ảnh">
+      <img src="{{ '/assets/images/portfolio-interior-teahouse.jpg' | relative_url }}" alt="Giải pháp nội thất và Hình ảnh">
     </div>
     <div class="service-text">
       <h3>2. Giải pháp nội thất & Hình ảnh</h3>
