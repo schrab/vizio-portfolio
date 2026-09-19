@@ -11,7 +11,7 @@ permalink: /en/
     <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
   </video>
   <div class="hero-content">
-    <h1>Hi! I'm Stepan. A professional artist with international experience and a large-scale vision.</h1>
+    <h1>My name is Stepan Shobolov, I am a professional artist with international experience and a large-scale vision.</h1>
     <p>I create custom murals for facades and interiors that shape the identity of your business. My art is an atmosphere where guests want to stay, take photos, and come back to you.</p>
     <a href="https://zalo.me/0793683160" class="btn-primary">Discuss a project on Zalo / WhatsApp</a>
   </div>

@@ -11,7 +11,7 @@ permalink: /
     <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
   </video>
   <div class="hero-content">
-    <h1>Привет! Я Степан. Я профессиональный художник с международным опытом и масштабным взглядом.</h1>
+    <h1>Меня зовут Степан Шоболов, я профессиональный художник с международным опытом и масштабным взглядом.</h1>
     <p>Создаю авторскую роспись фасадов и интерьеров, которая формирует идентичность вашего бизнеса. Мое искусство — это атмосфера, в которой гости хотят находиться, фотографироваться и возвращаться к вам.</p>
     <a href="https://zalo.me/0793683160" class="btn-primary">Обсудить проект в Zalo / WhatsApp</a>
   </div>
@@ -19,7 +19,6 @@ permalink: /
 
 ## Избранные проекты
 
-<div class="masonry-gallery">
 <div class="masonry-gallery">
   <img src="{{ '/assets/images/portfolio-interior-koi-fish.jpg' | relative_url }}" alt="Роспись интерьера с рыбами кои" loading="lazy">
   <img src="{{ '/assets/images/portfolio-mural.jpg' | relative_url }}" alt="Масштабная фасадная роспись" loading="lazy">

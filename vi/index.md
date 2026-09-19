@@ -11,7 +11,7 @@ permalink: /vi/
     <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
   </video>
   <div class="hero-content">
-    <h1>Xin chào! Tôi là Stepan. Một nghệ sĩ chuyên nghiệp với kinh nghiệm quốc tế và tầm nhìn quy mô lớn.</h1>
+    <h1>Tên tôi là Stepan Shobolov, tôi là một nghệ sĩ chuyên nghiệp với kinh nghiệm quốc tế và tầm nhìn quy mô lớn.</h1>
     <p>Tôi tạo ra các bức tranh tường tùy chỉnh cho mặt tiền và nội thất, định hình bản sắc doanh nghiệp của bạn. Nghệ thuật của tôi tạo ra một bầu không khí nơi khách hàng muốn ở lại, chụp ảnh và quay lại với bạn.</p>
     <a href="https://zalo.me/0793683160" class="btn-primary">Thảo luận dự án qua Zalo / WhatsApp</a>
   </div>
