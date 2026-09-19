@@ -103,7 +103,6 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
 <div class="about-section">
   <div class="about-intro">
     <p>I have been doing fine arts since the age of 20, my first personal exhibition took place back in 2005. My career includes international art residencies and projects in China, South Korea, Mongolia, and Europe.</p>
-
     <p>Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.</p>
   </div>
   <div class="about-text">

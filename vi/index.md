@@ -103,7 +103,6 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
 <div class="about-section">
   <div class="about-intro">
     <p>Tôi theo đuổi mỹ thuật từ năm 20 tuổi, triển lãm cá nhân đầu tiên của tôi diễn ra vào năm 2005. Sự nghiệp của tôi bao gồm các chương trình lưu trú nghệ thuật quốc tế và các dự án tại Trung Quốc, Hàn Quốc, Mông Cổ và Châu Âu.</p>
-
     <p>Đằng sau tôi là kinh nghiệm thực hiện các dự án hoành tráng với diện tích hơn 100 m2 và vẽ mặt tiền nhiều tầng. Kinh nghiệm hình ảnh, sự chú ý đến chi tiết và sự hiểu biết về các xu hướng hiện đại cho phép tôi tạo ra những dự án đáng nhớ.</p>
   </div>
   <div class="about-text">
