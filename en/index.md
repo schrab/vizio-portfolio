@@ -100,7 +100,7 @@ I have been doing fine arts since the age of 20, my first personal exhibition to
 
 Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.
 
-**Your reliable partner in the world of creativity:**
+
 <ul>
 <li><strong>Exclusively Original Art.</strong> I don't copy Pinterest. Each piece is born from the atmosphere of your place, your goals, and my artistic vision.</li>
 <li><strong>Professional Approach.</strong> No mess, complications, or surprises. I work carefully and meet deadlines.</li>

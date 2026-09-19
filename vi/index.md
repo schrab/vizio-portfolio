@@ -100,7 +100,7 @@ Tôi theo đuổi mỹ thuật từ năm 20 tuổi, triển lãm cá nhân đầ
 
 Đằng sau tôi là kinh nghiệm thực hiện các dự án hoành tráng với diện tích hơn 100 m2 và vẽ mặt tiền nhiều tầng. Kinh nghiệm hình ảnh, sự chú ý đến chi tiết và sự hiểu biết về các xu hướng hiện đại cho phép tôi tạo ra những dự án đáng nhớ.
 
-**Đối tác đáng tin cậy của bạn trong thế giới sáng tạo:**
+
 <ul>
 <li><strong>Hoàn toàn là Nghệ thuật Nguyên bản.</strong> Tôi không sao chép Pinterest. Mỗi tác phẩm được sinh ra từ bầu không khí của địa điểm, mục tiêu của bạn và tầm nhìn nghệ thuật của tôi.</li>
 <li><strong>Cách tiếp cận chuyên nghiệp.</strong> Không bừa bộn, không rắc rối hay bất ngờ. Tôi làm việc cẩn thận và đúng thời hạn.</li>
