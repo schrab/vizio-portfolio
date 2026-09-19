@@ -1,0 +1,13 @@
+title: "Степан Шоболов | Авторская роспись стен и фасадов"
+description: "Превращаю пустые стены в искусство. Уникальный арт для бизнеса."
+url: "https://schrab.github.io"
+baseurl: "/vizio-portfolio"
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
