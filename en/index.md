@@ -25,8 +25,9 @@ permalink: /en/
   <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" alt="Custom carved panel blue rider" loading="lazy">
   <img src="{{ '/assets/images/portfolio-exterior-pool-art.jpg' | relative_url }}" alt="Street art facade painting by the pool" loading="lazy">
   <img src="{{ '/assets/images/portfolio-interior-mountains.jpg' | relative_url }}" alt="Interior mural with mountains" loading="lazy">
-  <img src="{{ '/assets/images/portfolio-exterior-3d-art-1.jpg' | relative_url }}" alt="3D facade mural with a bear" loading="lazy">
-  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Canvases and signature style" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-painting-boat.jpg' | relative_url }}" alt="Painting with boat" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-interior-gvidon-2.jpg' | relative_url }}" alt="Gvidon interior painting" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Canvases and custom style" loading="lazy">
 </div>
 
 ## Art That Works for Your Business
@@ -49,8 +50,9 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
   
   <div class="service-row reverse">
-    <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-interior-teahouse.jpg' | relative_url }}" alt="Interior Solutions and Image">
+    <div class="service-media-grid">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" alt="Fox painting">
+      <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Sushi painting">
     </div>
     <div class="service-text">
       <h3>2. Interior Solutions & Image</h3>
@@ -59,8 +61,14 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
   
   <div class="service-row">
-    <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" alt="Unique Custom Panels">
+    <div class="service-media-complex">
+      <video autoplay loop muted playsinline>
+        <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
+      </video>
+      <div class="service-media-subgrid">
+        <img src="{{ '/assets/images/portfolio-panno-oriental-city.jpg' | relative_url }}" alt="Oriental city panno">
+        <img src="{{ '/assets/images/portfolio-panno-round-table.jpg' | relative_url }}" alt="Round table panno">
+      </div>
     </div>
     <div class="service-text">
       <h3>3. Unique Custom Panels</h3>
@@ -69,10 +77,13 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
 </div>
 
-## From Idea to Your Guests' First Selfie — Only 4 Steps
+## From idea to your guests' first selfie — only 4 steps
 
 <div class="process-section">
   <div class="process-videos">
+    <video autoplay loop muted playsinline class="process-card">
+      <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
+    </video>
     <video autoplay loop muted playsinline class="process-card">
       <source src="{{ '/assets/videos/process-panno-shaman-vr.mp4' | relative_url }}" type="video/mp4">
     </video>
@@ -82,12 +93,12 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
 
   <div class="process-steps">
-    <p>I value your time and business processes. My goal is to create a masterpiece on your wall without paralyzing your venue's operations.</p>
+    <p>I value your time and business processes. My goal is to create a masterpiece on your wall without paralyzing the work of the establishment.</p>
     <ul>
-      <li><strong>Step 1. Meeting and Concept.</strong> We meet on site or have a call. I study your space and listen to your wishes. Even if you don't have a clear idea, I will offer several options that will strengthen your brand.</li>
-      <li><strong>Step 2. Sketch and Approval.</strong> I develop a detailed sketch tied to your wall. You see exactly how the drawing will fit into the interior or facade before the work starts. We agree on deadlines and budget.</li>
-      <li><strong>Step 3. Clean Implementation.</strong> I arrive with my materials and equipment. I work carefully: I protect surfaces and use modern paints without toxic odors. If necessary, I work at night so as not to disturb your guests.</li>
-      <li><strong>Step 4. Done. Delivery of Result.</strong> I hand over the object exactly on time. You get a unique art space that becomes the hallmark of your business and a magnet for social media.</li>
+      <li><strong>Step 1. Meeting and Concept.</strong> We meet on site, have a call, or <strong>fill out a brief</strong>. I study your space and listen to your wishes. Even if you don't have a clear idea, I will offer several options that will strengthen your brand.</li>
+      <li><strong>Step 2. Sketch and Approval.</strong> I develop a detailed sketch linked to your wall. You can see exactly how the drawing will fit into the interior or facade before work begins. We agree on deadlines and budget.</li>
+      <li><strong>Step 3. Clean Implementation.</strong> I arrive at the object with materials and start working. I work carefully: protect surfaces, use modern paints without toxic odors. If necessary, I work at night so as not to disturb your guests.</li>
+      <li><strong>Step 4. Done. I deliver the result.</strong> I deliver the object exactly on time. You get a unique art space that becomes the calling card of your business and a magnet for social networks.</li>
     </ul>
   </div>
 </div>
@@ -95,18 +106,18 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
 ## Global Experience. Premium Quality
 
 <div class="about-section">
+  <div class="about-text">
+    <p>I have been doing fine arts since the age of 20, my first personal exhibition took place back in 2005. My career includes international art residencies and projects in China, South Korea, Mongolia, and Europe.</p>
 
-I have been doing fine arts since the age of 20, my first personal exhibition took place back in 2005. My career includes international art residencies and projects in China, South Korea, Mongolia, and Europe.
+    <p>Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.</p>
 
-Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.
-
-
-<ul>
-<li><strong>Exclusively Original Art.</strong> I don't copy Pinterest. Each piece is born from the atmosphere of your place, your goals, and my artistic vision.</li>
-<li><strong>Professional Approach.</strong> No mess, complications, or surprises. I work carefully and meet deadlines.</li>
-<li><strong>I Understand Business.</strong> I create beauty that attracts attention and increases the value of your venue.</li>
-</ul>
-
+    <ul>
+      <li><strong>Exclusively Original Art.</strong> I don't copy Pinterest. Each piece is born from the atmosphere of your place, your goals, and my artistic vision.</li>
+      <li><strong>Professional Approach.</strong> No mess, complications, or surprises. I work carefully and meet deadlines.</li>
+      <li><strong>I Understand Business.</strong> I create beauty that attracts attention and increases the value of your venue.</li>
+    </ul>
+  </div>
+  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Stepan Shobolov">
 </div>
 
 ## Frequently Asked Questions

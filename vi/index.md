@@ -24,9 +24,10 @@ permalink: /vi/
   <img src="{{ '/assets/images/portfolio-mural.jpg' | relative_url }}" alt="Bức tranh tường mặt tiền quy mô lớn" loading="lazy">
   <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" alt="Bức bình phong chạm khắc kỵ sĩ xanh" loading="lazy">
   <img src="{{ '/assets/images/portfolio-exterior-pool-art.jpg' | relative_url }}" alt="Nghệ thuật đường phố mặt tiền cạnh hồ bơi" loading="lazy">
-  <img src="{{ '/assets/images/portfolio-interior-mountains.jpg' | relative_url }}" alt="Tranh tường nội thất phong cảnh núi non" loading="lazy">
-  <img src="{{ '/assets/images/portfolio-exterior-3d-art-1.jpg' | relative_url }}" alt="Tranh tường 3D mặt tiền hình gấu" loading="lazy">
-  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Tranh canvas và phong cách cá nhân" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-interior-mountains.jpg' | relative_url }}" alt="Bức tranh tường nội thất với núi" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-painting-boat.jpg' | relative_url }}" alt="Bức tranh với chiếc thuyền" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-interior-gvidon-2.jpg' | relative_url }}" alt="Tranh vẽ nội thất Gvidon" loading="lazy">
+  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Tranh bạt và phong cách độc quyền" loading="lazy">
 </div>
 
 ## Nghệ thuật phục vụ doanh nghiệp của bạn
@@ -49,8 +50,9 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   </div>
   
   <div class="service-row reverse">
-    <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-interior-teahouse.jpg' | relative_url }}" alt="Giải pháp nội thất và Hình ảnh">
+    <div class="service-media-grid">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" alt="Bức tranh con cáo">
+      <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Bức tranh sushi">
     </div>
     <div class="service-text">
       <h3>2. Giải pháp nội thất & Hình ảnh</h3>
@@ -59,8 +61,14 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   </div>
   
   <div class="service-row">
-    <div class="service-media">
-      <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" alt="Bức bình phong điêu khắc độc đáo">
+    <div class="service-media-complex">
+      <video autoplay loop muted playsinline>
+        <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
+      </video>
+      <div class="service-media-subgrid">
+        <img src="{{ '/assets/images/portfolio-panno-oriental-city.jpg' | relative_url }}" alt="Thành phố phương Đông">
+        <img src="{{ '/assets/images/portfolio-panno-round-table.jpg' | relative_url }}" alt="Bàn tròn">
+      </div>
     </div>
     <div class="service-text">
       <h3>3. Bức bình phong điêu khắc độc đáo</h3>
@@ -69,10 +77,13 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   </div>
 </div>
 
-## Từ ý tưởng đến bức ảnh tự sướng đầu tiên của khách — Chỉ 4 bước
+## Từ ý tưởng đến bức ảnh tự sướng đầu tiên của khách — chỉ 4 bước
 
 <div class="process-section">
   <div class="process-videos">
+    <video autoplay loop muted playsinline class="process-card">
+      <source src="{{ '/assets/videos/hero-bg-mural-process.mp4' | relative_url }}" type="video/mp4">
+    </video>
     <video autoplay loop muted playsinline class="process-card">
       <source src="{{ '/assets/videos/process-panno-shaman-vr.mp4' | relative_url }}" type="video/mp4">
     </video>
@@ -82,12 +93,12 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   </div>
 
   <div class="process-steps">
-    <p>Tôi trân trọng thời gian và quy trình kinh doanh của bạn. Mục tiêu của tôi là tạo ra một kiệt tác trên bức tường của bạn mà không làm gián đoạn hoạt động kinh doanh.</p>
+    <p>Tôi coi trọng thời gian và quy trình kinh doanh của bạn. Mục tiêu của tôi là tạo ra một kiệt tác trên bức tường của bạn mà không làm gián đoạn hoạt động của cơ sở.</p>
     <ul>
-      <li><strong>Bước 1. Gặp gỡ và Ý tưởng.</strong> Chúng ta gặp nhau tại chỗ hoặc gọi điện. Tôi nghiên cứu không gian của bạn và lắng nghe mong muốn của bạn. Ngay cả khi bạn chưa có ý tưởng rõ ràng, tôi sẽ đưa ra một số phương án giúp củng cố thương hiệu của bạn.</li>
-      <li><strong>Bước 2. Phác thảo và Phê duyệt.</strong> Tôi phát triển một bản phác thảo chi tiết gắn với bức tường của bạn. Bạn sẽ thấy chính xác hình vẽ sẽ phù hợp với nội thất hoặc mặt tiền như thế nào trước khi bắt đầu công việc. Chúng ta thống nhất về thời hạn và ngân sách.</li>
-      <li><strong>Bước 3. Thi công gọn gàng.</strong> Tôi đến với vật liệu và thiết bị của mình. Tôi làm việc cẩn thận: bảo vệ các bề mặt và sử dụng sơn hiện đại không có mùi độc hại. Nếu cần, tôi có thể làm việc vào ban đêm để không làm phiền khách của bạn.</li>
-      <li><strong>Bước 4. Hoàn thành. Bàn giao kết quả.</strong> Tôi bàn giao công trình đúng hạn. Bạn nhận được một không gian nghệ thuật độc đáo trở thành dấu ấn cho doanh nghiệp của bạn và nam châm thu hút mạng xã hội.</li>
+      <li><strong>Bước 1. Cuộc họp và Khái niệm.</strong> Chúng ta gặp nhau tại chỗ, gọi điện hoặc <strong>điền vào bản tóm tắt</strong>. Tôi nghiên cứu không gian của bạn và lắng nghe mong muốn của bạn. Ngay cả khi bạn không có ý tưởng rõ ràng, tôi sẽ đưa ra một số tùy chọn củng cố thương hiệu của bạn.</li>
+      <li><strong>Bước 2. Bản phác thảo và Phê duyệt.</strong> Tôi phát triển một bản phác thảo chi tiết gắn liền với bức tường của bạn. Bạn có thể thấy chính xác bức vẽ sẽ phù hợp với nội thất hoặc mặt tiền như thế nào trước khi bắt đầu công việc. Chúng ta thỏa thuận về thời hạn và ngân sách.</li>
+      <li><strong>Bước 3. Thực hiện sạch sẽ.</strong> Tôi đến địa điểm cùng với vật liệu và bắt đầu công việc. Tôi làm việc cẩn thận: bảo vệ bề mặt, sử dụng sơn hiện đại không có mùi độc hại. Nếu cần, tôi làm việc vào ban đêm để không làm phiền khách của bạn.</li>
+      <li><strong>Bước 4. Xong. Tôi giao kết quả.</strong> Tôi bàn giao dự án đúng thời hạn. Bạn có một không gian nghệ thuật độc đáo trở thành điểm nhấn kinh doanh và thu hút truyền thông xã hội.</li>
     </ul>
   </div>
 </div>
@@ -95,18 +106,18 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
 ## Kinh nghiệm toàn cầu. Chất lượng cao cấp
 
 <div class="about-section">
+  <div class="about-text">
+    <p>Tôi theo đuổi mỹ thuật từ năm 20 tuổi, triển lãm cá nhân đầu tiên của tôi diễn ra vào năm 2005. Sự nghiệp của tôi bao gồm các chương trình lưu trú nghệ thuật quốc tế và các dự án tại Trung Quốc, Hàn Quốc, Mông Cổ và Châu Âu.</p>
 
-Tôi theo đuổi mỹ thuật từ năm 20 tuổi, triển lãm cá nhân đầu tiên của tôi diễn ra vào năm 2005. Sự nghiệp của tôi bao gồm các chương trình lưu trú nghệ thuật quốc tế và các dự án tại Trung Quốc, Hàn Quốc, Mông Cổ và Châu Âu.
+    <p>Đằng sau tôi là kinh nghiệm thực hiện các dự án hoành tráng với diện tích hơn 100 m2 và vẽ mặt tiền nhiều tầng. Kinh nghiệm hình ảnh, sự chú ý đến chi tiết và sự hiểu biết về các xu hướng hiện đại cho phép tôi tạo ra những dự án đáng nhớ.</p>
 
-Đằng sau tôi là kinh nghiệm thực hiện các dự án hoành tráng với diện tích hơn 100 m2 và vẽ mặt tiền nhiều tầng. Kinh nghiệm hình ảnh, sự chú ý đến chi tiết và sự hiểu biết về các xu hướng hiện đại cho phép tôi tạo ra những dự án đáng nhớ.
-
-
-<ul>
-<li><strong>Hoàn toàn là Nghệ thuật Nguyên bản.</strong> Tôi không sao chép Pinterest. Mỗi tác phẩm được sinh ra từ bầu không khí của địa điểm, mục tiêu của bạn và tầm nhìn nghệ thuật của tôi.</li>
-<li><strong>Cách tiếp cận chuyên nghiệp.</strong> Không bừa bộn, không rắc rối hay bất ngờ. Tôi làm việc cẩn thận và đúng thời hạn.</li>
-<li><strong>Tôi Hiểu Kinh doanh.</strong> Tôi tạo ra vẻ đẹp thu hút sự chú ý và tăng giá trị cho địa điểm của bạn.</li>
-</ul>
-
+    <ul>
+      <li><strong>Hoàn toàn là Nghệ thuật Nguyên bản.</strong> Tôi không sao chép Pinterest. Mỗi tác phẩm được sinh ra từ bầu không khí của địa điểm, mục tiêu của bạn và tầm nhìn nghệ thuật của tôi.</li>
+      <li><strong>Cách tiếp cận chuyên nghiệp.</strong> Không bừa bộn, không rắc rối hay bất ngờ. Tôi làm việc cẩn thận và đúng thời hạn.</li>
+      <li><strong>Tôi Hiểu Kinh doanh.</strong> Tôi tạo ra vẻ đẹp thu hút sự chú ý và tăng giá trị cho địa điểm của bạn.</li>
+    </ul>
+  </div>
+  <img src="{{ '/assets/images/portfolio-style.jpg' | relative_url }}" alt="Stepan Shobolov">
 </div>
 
 ## Các câu hỏi thường gặp
