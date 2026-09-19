@@ -77,7 +77,7 @@ permalink: /
       <source src="{{ '/assets/videos/process-panno-shaman-vr.mp4' | relative_url }}" type="video/mp4">
     </video>
     <video autoplay loop muted playsinline class="process-card">
-      <source src="{{ '/assets/videos/process-painting-underwater-temple.mp4' | relative_url }}" type="video/mp4">
+      <source src="{{ '/assets/videos/process-interrior-koi.mp4' | relative_url }}" type="video/mp4">
     </video>
   </div>
 
