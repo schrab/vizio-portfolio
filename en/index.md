@@ -13,7 +13,7 @@ permalink: /en/
   <div class="hero-content">
     <h1>My name is Stepan Shobolov, I am a professional artist with international experience and a large-scale vision.</h1>
     <p>I create custom murals for facades and interiors that shape the identity of your business. My art is an atmosphere where guests want to stay, take photos, and come back to you.</p>
-    <a href="https://zalo.me/0793683160" class="btn-primary">Discuss a project on Zalo / WhatsApp</a>
+    <a href="https://wa.me/79500805570" class="btn-primary">Discuss a project on WhatsApp</a>
   </div>
 </div>
 
@@ -127,9 +127,5 @@ Behind me is the experience of implementing monumental projects with an area of 
   <p>Let's create something special! It's not necessary to have a clear technical brief or an exact sketch. Just tell me about your place, and I will offer some ideas on how to make it legendary.</p>
   <p><strong>I am ready to drop by for a coffee</strong> to discuss details, get to know each other, and see the object.</p>
   
-  <div class="contact-links">
-    <a href="tel:+840793683160">0793683160</a>
-    <span>Zalo / WhatsApp / Telegram</span>
-  </div>
-  <a href="https://zalo.me/0793683160" class="btn-primary">Message me right now</a>
+  <a href="https://wa.me/79500805570" class="btn-primary">Message me right now</a>
 </div>

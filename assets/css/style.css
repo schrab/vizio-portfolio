@@ -337,3 +337,28 @@ details p {
   color: #ccc;
   font-weight: normal;
 }
+
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 3rem 1rem;
+  background-color: var(--secondary-color);
+  margin-top: 4rem;
+}
+.footer-contacts {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.footer-contacts a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+.footer-contacts a:hover {
+  color: var(--accent-color);
+}
+

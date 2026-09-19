@@ -13,7 +13,7 @@ permalink: /vi/
   <div class="hero-content">
     <h1>Tên tôi là Stepan Shobolov, tôi là một nghệ sĩ chuyên nghiệp với kinh nghiệm quốc tế và tầm nhìn quy mô lớn.</h1>
     <p>Tôi tạo ra các bức tranh tường tùy chỉnh cho mặt tiền và nội thất, định hình bản sắc doanh nghiệp của bạn. Nghệ thuật của tôi tạo ra một bầu không khí nơi khách hàng muốn ở lại, chụp ảnh và quay lại với bạn.</p>
-    <a href="https://zalo.me/0793683160" class="btn-primary">Thảo luận dự án qua Zalo / WhatsApp</a>
+    <a href="https://zalo.me/0793683160" class="btn-primary">Thảo luận dự án qua Zalo</a>
   </div>
 </div>
 
@@ -127,9 +127,5 @@ Tôi theo đuổi mỹ thuật từ năm 20 tuổi, triển lãm cá nhân đầ
   <p>Hãy cùng tạo ra điều gì đó đặc biệt! Không nhất thiết phải có bản tóm tắt kỹ thuật rõ ràng hoặc bản phác thảo chính xác. Chỉ cần kể cho tôi nghe về địa điểm của bạn, và tôi sẽ đưa ra một số ý tưởng về cách biến nó thành huyền thoại.</p>
   <p><strong>Tôi sẵn sàng ghé qua uống cà phê</strong> để thảo luận chi tiết, làm quen và xem địa điểm.</p>
   
-  <div class="contact-links">
-    <a href="tel:+840793683160">0793683160</a>
-    <span>Zalo / WhatsApp / Telegram</span>
-  </div>
   <a href="https://zalo.me/0793683160" class="btn-primary">Nhắn tin cho tôi ngay bây giờ</a>
 </div>
