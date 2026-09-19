@@ -287,28 +287,19 @@ main {
 }
 
 .process-videos {
-  display: flex;
-  gap: 1.5rem;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-  padding-bottom: 1rem;
-}
-
-.process-videos::-webkit-scrollbar {
-  display: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  overflow: visible;
 }
 
 .process-card {
-  height: 500px;
-  width: auto;
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
   aspect-ratio: 9 / 16;
   object-fit: cover;
-  flex-shrink: 0;
-  border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  scroll-snap-align: start;
 }
 
 .process-steps ul {
@@ -328,6 +319,29 @@ main {
   position: absolute;
   left: 0;
   top: -10px;
+}
+
+@media (max-width: 768px) {
+  .process-videos {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 15px;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .process-videos::-webkit-scrollbar {
+    display: none;
+  }
+  .process-card {
+    flex: 0 0 85%;
+    scroll-snap-align: center;
+  }
+  .process-videos::after {
+    content: '';
+    flex: 0 0 1px;
+    padding-right: 20px;
+  }
 }
 
 @media (max-width: 900px) {
