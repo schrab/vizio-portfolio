@@ -50,9 +50,10 @@ permalink: /
   </div>
   
   <div class="service-row reverse">
-    <div class="service-media-grid">
-      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" alt="Роспись с лисой">
+    <div class="auto-slider">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="active" alt="Роспись с лисой">
       <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Роспись суши">
+      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" alt="Роспись нерпа">
     </div>
     <div class="service-text">
       <h3>2. Интерьерные Решения & Имидж</h3>
@@ -65,10 +66,6 @@ permalink: /
       <video autoplay loop muted playsinline>
         <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
       </video>
-      <div class="service-media-subgrid">
-        <img src="{{ '/assets/images/portfolio-panno-oriental-city.jpg' | relative_url }}" alt="Панно восточный город">
-        <img src="{{ '/assets/images/portfolio-panno-round-table.jpg' | relative_url }}" alt="Панно круглый стол">
-      </div>
     </div>
     <div class="service-text">
       <h3>3. Уникальные Авторские Панно</h3>

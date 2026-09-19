@@ -50,9 +50,10 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   </div>
   
   <div class="service-row reverse">
-    <div class="service-media-grid">
-      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" alt="Bức tranh con cáo">
+    <div class="auto-slider">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="active" alt="Bức tranh con cáo">
       <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Bức tranh sushi">
+      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" alt="Bức tranh nerpa">
     </div>
     <div class="service-text">
       <h3>2. Giải pháp nội thất & Hình ảnh</h3>
@@ -65,10 +66,6 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
       <video autoplay loop muted playsinline>
         <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
       </video>
-      <div class="service-media-subgrid">
-        <img src="{{ '/assets/images/portfolio-panno-oriental-city.jpg' | relative_url }}" alt="Thành phố phương Đông">
-        <img src="{{ '/assets/images/portfolio-panno-round-table.jpg' | relative_url }}" alt="Bàn tròn">
-      </div>
     </div>
     <div class="service-text">
       <h3>3. Bức bình phong điêu khắc độc đáo</h3>

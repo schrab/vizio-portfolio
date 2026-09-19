@@ -57,6 +57,19 @@
                 localStorage.setItem('theme', 'light');
             }
         });
+
+        // Auto Slider logic
+        document.querySelectorAll('.auto-slider').forEach(slider => {
+            const images = slider.querySelectorAll('img');
+            if (images.length <= 1) return;
+            
+            let currentIndex = 0;
+            setInterval(() => {
+                images[currentIndex].classList.remove('active');
+                currentIndex = (currentIndex + 1) % images.length;
+                images[currentIndex].classList.add('active');
+            }, 4000);
+        });
     </script>
 </body>
 </html>

@@ -50,9 +50,10 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
   </div>
   
   <div class="service-row reverse">
-    <div class="service-media-grid">
-      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" alt="Fox painting">
+    <div class="auto-slider">
+      <img src="{{ '/assets/images/portfolio-interior-fox.jpg' | relative_url }}" class="active" alt="Fox painting">
       <img src="{{ '/assets/images/portfolio-interior-sushi.jpg' | relative_url }}" alt="Sushi painting">
+      <img src="{{ '/assets/images/portfolio-interior-nerpa.jpg' | relative_url }}" alt="Nerpa painting">
     </div>
     <div class="service-text">
       <h3>2. Interior Solutions & Image</h3>
@@ -65,10 +66,6 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
       <video autoplay loop muted playsinline>
         <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
       </video>
-      <div class="service-media-subgrid">
-        <img src="{{ '/assets/images/portfolio-panno-oriental-city.jpg' | relative_url }}" alt="Oriental city panno">
-        <img src="{{ '/assets/images/portfolio-panno-round-table.jpg' | relative_url }}" alt="Round table panno">
-      </div>
     </div>
     <div class="service-text">
       <h3>3. Unique Custom Panels</h3>
