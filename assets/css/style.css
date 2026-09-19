@@ -469,6 +469,13 @@ details p {
 
 
 /* About Section */
+.about-intro {
+  max-width: 1200px;
+  margin: 0 auto 2rem auto;
+  padding: 0 2rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
 .about-section {
   max-width: 1200px;
   margin: 0 auto 4rem auto;

@@ -100,12 +100,14 @@ I help coffee shops, restaurants, hotels, hostels, barbershops, and large busine
 
 ## Global Experience. Premium Quality
 
+<div class="about-intro">
+  <p>I have been doing fine arts since the age of 20, my first personal exhibition took place back in 2005. My career includes international art residencies and projects in China, South Korea, Mongolia, and Europe.</p>
+
+  <p>Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.</p>
+</div>
+
 <div class="about-section">
   <div class="about-text">
-    <p>I have been doing fine arts since the age of 20, my first personal exhibition took place back in 2005. My career includes international art residencies and projects in China, South Korea, Mongolia, and Europe.</p>
-
-    <p>Behind me is the experience of implementing monumental projects with an area of ​​over 100 sq.m. and painting multi-story facades. My visual experience, attention to detail, and understanding of modern trends allow me to create projects that are remembered.</p>
-
     <ul>
       <li><strong>Exclusively Original Art.</strong> I don't copy Pinterest. Each piece is born from the atmosphere of your place, your goals, and my artistic vision.</li>
       <li><strong>Professional Approach.</strong> No mess, complications, or surprises. I work carefully and meet deadlines.</li>
