@@ -64,7 +64,7 @@ Tôi giúp các quán cà phê, nhà hàng, khách sạn, nhà nghỉ, tiệm c�
   <div class="service-row">
     <div class="auto-slider">
       <img src="{{ '/assets/images/portfolio-panno-blue-rider.jpg' | relative_url }}" class="slide active" alt="Bức bình phong">
-      <video class="slide" autoplay loop muted playsinline>
+      <video class="slide" autoplay loop muted playsinline style="object-position: center 15%;">
         <source src="{{ '/assets/videos/panno-horse-stopmotion.mp4' | relative_url }}" type="video/mp4">
       </video>
     </div>
