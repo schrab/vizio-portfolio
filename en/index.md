@@ -34,7 +34,7 @@ permalink: /en/
 
 In today's world, space is part of the brand. Your guests come not only for coffee or a service, they come for emotions, impressions, and aesthetics.
 
-I help coffee shops, restaurants, hotels, hostels, barbershops, and large businesses stand out without extra words. I create unique art that sets the right vibe and works as powerful, organic marketing.
+I help coffee shops, restaurants, hotels, barbershops, and boutique projects stand out without extra words. I create unique art that sets the right vibe and works as powerful, organic marketing.
 
 ## Unique Solutions for Your Space
 
